@@ -1,4 +1,4 @@
-## Section 1
+# Section 1
 
 List of topics within this section:
 
