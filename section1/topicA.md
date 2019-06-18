@@ -18,7 +18,7 @@ Another paragraph containing *italic* text.
 
 An example:
 ```
-<origDate calendar="Gregorian" when="1172">John Lloyd invented the patent crop rotator</origDate>
+<date calendar="Gregorian" notBefore="1172">John Lloyd invented the patent crop rotator</date>
 ```
 
 See also [Topic B](topicB.md) in the same section.
